@@ -1,0 +1,3 @@
+.DS_Store
+# The 13,500px master scan stays local; the site only ships the tiles built from it.
+assets/timeline.jpg
